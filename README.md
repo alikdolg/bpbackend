@@ -1,4 +1,4 @@
-# BigPanda Backend task exercise
+# BigPanda Backend task
 
 ## The goal is implement a Non Blocking Producer/Consumer stream processing service that exposes an HTTP api.
 
@@ -25,8 +25,8 @@ Run `mvn clean` and then `mvn install`
 In project target directory run following command:
 `java -jar application-0.0.1-SNAPSHOT.jar`
 
-Use http://localhost:8080/countTypes URL for retrieve Event types counters
-Use http://localhost:8080/countWords URL for retrieve Words counters
+* Use http://localhost:8080/countTypes URL for retrieve Event types counters
+* Use http://localhost:8080/countWords URL for retrieve Words counters
 
 ## Improvements:
 * Implement logger
