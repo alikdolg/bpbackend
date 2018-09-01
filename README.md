@@ -29,7 +29,7 @@ Use http://localhost:8080/countTypes URL for retrieve Event types counters
 Use http://localhost:8080/countWords URL for retrieve Words counters
 
 ## Improvements:
-*Implement logger
-*HTML based client
-*Support sorted output for counters
+* Implement logger
+* HTML based client
+* Support sorted output for counters
  
