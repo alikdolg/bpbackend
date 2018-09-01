@@ -21,7 +21,7 @@ Edit "exec_path" property in src/main/resources/application.properties file, upd
 
 Run `mvn clean` and then `mvn install`
 
-## Run
+## Run:
 In project target directory run following command:
 `java -jar application-0.0.1-SNAPSHOT.jar`
 
@@ -29,7 +29,7 @@ Use http://localhost:8080/countTypes URL for retrieve Event types counters
 Use http://localhost:8080/countWords URL for retrieve Words counters
 
 ## Improvements:
-Implement logger
-HTML based client
-Support sorted output for counters
+*Implement logger
+*HTML based client
+*Support sorted output for counters
  
